@@ -13,7 +13,8 @@ export default function Skills() {
     "MySQL",
     "HTML5",
     "CSS3",
-    "UI/UX Design",
+    "Figma",
+    "Bootstrap",
   ];
 
   // Generate positions on a sphere using spherical coordinates
