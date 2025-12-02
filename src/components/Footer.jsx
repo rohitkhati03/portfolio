@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>© 2025 Prasiddhi — All Rights Reserved</p>
+        <p>© 2025 Rohit Khati — All Rights Reserved</p>
 
         {/* Social Icons */}
         <div className="footer-social">
